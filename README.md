@@ -1,0 +1,2 @@
+# weather
+Moleculer weather service
